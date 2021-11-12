@@ -132,6 +132,9 @@ export default {
       menu: false,
       target: null,
       loading: true,
+      table: {
+        itemsPerPage: -1
+      }
     };
   },
   computed: {

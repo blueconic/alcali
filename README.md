@@ -51,7 +51,7 @@ Just connect on [http://127.0.0.1:8000](http://127.0.0.1:8000), login with:
 
 ```commandline
 username: admin
-password: password
+password: admin
 ```
 
 and follow the [walkthrough](https://alcali.dev/walkthrough/).

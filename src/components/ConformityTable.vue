@@ -124,6 +124,9 @@ export default {
       headers: [],
       conformity: [],
       loading: true,
+      table: {
+        itemsPerPage: -1
+      }
     };
   },
   mounted() {

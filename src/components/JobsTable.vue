@@ -248,6 +248,9 @@ export default {
       ],
       jobs: [],
       loading: true,
+      table: {
+        itemsPerPage: -1
+      }
     };
   },
   computed: {
